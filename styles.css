@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: pink;
+
+}
+.rip{
+    text-align: center;
+}
+.rrr{
+    width: 900px;
+    float: left;
+    border: 2px solid black;
+}
+.posts{
+    
+    width: 300px;
+    float: right;
+    border: 2px solid black;
+    height: 670px;
+    
+}
+.rip{
+   text-align: center;
+}
+
+
+.html{
+    width: 900px;
+    float: left;
+}
+.list li{
+    padding: 10px;
+    margin-left: 20px;
+}
+.list1{
+    margin-left: 20px;
+
+}
+.list2{
+    margin-left: 20px;
+
+}
+
+
+.picture2{
+    float: left;
+}
+.right{
+    clear:both;
+}
+.picture1{
+    float: left;
+}
+.magnize{
+    clear: both;
+    width: 500px;
+    float: right;
+}
